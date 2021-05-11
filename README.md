@@ -1,2 +1,2 @@
-# 41004-AI-Capstone-Project-
+# 41004-AI-Capstone-Project
 Project 21: Federated Learning on Image Classification
